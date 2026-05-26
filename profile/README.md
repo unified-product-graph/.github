@@ -12,9 +12,10 @@
 ## Install
 
 ```bash
-npx @unified-product-graph/cli        # the upg CLI
-npm install @unified-product-graph/core   # the spec + TypeScript types
-npm install @unified-product-graph/sdk    # programmatic read/write of .upg graphs
+npx @unified-product-graph/cli           # the upg CLI
+npx @unified-product-graph/mcp-server    # local MCP server — connect UPG to Claude Code / any MCP client
+npm install @unified-product-graph/core  # the spec + TypeScript types
+npm install @unified-product-graph/sdk   # programmatic read/write of .upg graphs
 ```
 
 ## Learn more
