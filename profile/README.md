@@ -2,7 +2,7 @@
 
 **An open specification for structured product knowledge** — a typed, queryable graph that works with any MCP-compatible AI tool.
 
-> 🧪 **Public beta.** UPG v0.6 is an early public beta — the spec and packages may still change. Issues and feedback are very welcome.
+> 🧪 **Public beta.** UPG v0.10.0 is an early public beta — the spec and packages may still change. Issues and feedback are very welcome.
 
 ## Repositories
 
